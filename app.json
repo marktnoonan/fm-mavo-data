@@ -1,0 +1,14 @@
+{
+	"title": "Songwriting Camp Questions",
+	"paragraph": "Welcome to songwriting camp. There are a few things we'd like to know before you join us. If you have made a reservation\n\t\t\tfor more than one person, please add information for each person below.",
+	"name-label": "Name (required)",
+	"radio-label": "This person is:",
+	"camping-label": [
+		"Participating in camp",
+		"Attending as a guest (pays room and board only)"
+	],
+	"allergies-label": "Allergies/Dietary Restrictions",
+	"notes-label": "Other Notes",
+	"lodging-label": "Lodging Preference for you or your group:",
+	"mv-lodging": "dorm"
+}
