@@ -4,7 +4,7 @@
 	"name-label": "Name (required)",
 	"radio-label": "This person is:",
 	"camping-label": [
-		"Participating in camp",
+		"Participating in camp (pays full price)",
 		"Attending as a guest (pays room and board only)"
 	],
 	"allergies-label": "Allergies/Dietary Restrictions",
